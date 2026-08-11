@@ -1,0 +1,6 @@
+{
+  "name": "CHEMIST AI",
+  "description": "AI-Powered Chemical Identification & Molecular Analysis Web Platform with E-Tongue Sensor Integration",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
